@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Audio Talks</title>
+    <title>Jumbotron Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -30,25 +30,23 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.html">Home</a></li>
-            <li class="active"><a href="#">About</a></li>
-			      <li><a href="legal.html">Legal</a></li>
+            <li><a href="about.html">About</a></li>
+			      <li class="active"><a href="#">Legal</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>The Project</h1>
-        <p>This project was started in order to give other people quick access to speech's from conferences and other events. I really enjoy listening to talks when walking to and from classes so I wanted to make a website where I (and others) could quickly find a talk to listen to and download or stream it. This helps to circumvent the arduous process of finding a talk and downloading/converting it yourself.</p>
-        <p>If you have suggestions for talks please send them to my e-mail: <a href=mailto:ryanmavilia@gmail.com>linked here.</a> The site is hosted through <a href="http://aws.amazon.com/s3/">Amazon S3</a> serivces and the source code is located <a href="https://github.com/ryanmavilia/AudioTalks">here.</a></p>
-        <h1>The Creator</h1>
-        <p>Audio Talks was created by me, <a href="http://unoriginality.rocks">Ryan Mavilia.</a> I am a freshman undergraduate student studying Computer Science at the <a href="http://umd.edu">University of Maryland, College Park.</a></p>
+        <h1>Legal</h1>
+		<p>Please e-mail me about legal issues at: <a href=mailto:ryanmavilia@gmail.com>ryanmavilia@gmail.com</a></p>
+		<p>I make no money from this site and I personally pay for all hosting/domain services. I try to give as much credit to the sources and speakers from the talks I host. Send me an e-mail if you don't think you are getting enough credit. </p>
+    <p>If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement please let me know. I respect the work the speakers put into their talks and I do not wish to benefit from their efforts.</p>
+
       </div>
     </div>
-
-<div class="container">
+	<div class="container">
       <hr>
 
       <footer>
